@@ -26,7 +26,7 @@ A Python command-line tool that extracts **text**, **tables**, and **metadata** 
 ```text
 project/
 │
-├── pdf_extractor.py
+├── task 12.py
 ├── output/
 └── README.md
 ```
