@@ -38,7 +38,7 @@ project/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/gayatori-san/unprof_pyai_12
+git clone https://github.com/gayatori-san/unprof_pyai_12.git
 ```
 
 ### 2️⃣ Navigate to the project directory
